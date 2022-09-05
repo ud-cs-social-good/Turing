@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "target": "ES2022",
+        "allowJs": true,
+        "allowSyntheticDefaultImports": true,
+        "baseUrl": ".",
+        "resolveJsonModule": true,
+        "paths":{
+            "@utilize": ["src/utils"],
+            "@typings": ["src/typings"],
+            "@building": ["src/buildings"]
+        },
+        "module": "commonjs"
+    },
+    "exclude": [
+        "**/node_modules",
+        "config.example.ts",
+        "**/dist"
+    ]
+}
