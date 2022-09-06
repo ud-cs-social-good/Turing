@@ -18,6 +18,7 @@
   "homepage": "https://github.com/ud-cs-social-good/Turing#readme",
   "dependencies": {
     "discord.js": "13.8",
-    "file-system": "^1.2.2"
+    "file-system": "^1.2.2",
+    "mongodb": "^4.9.1"
   }
 }
