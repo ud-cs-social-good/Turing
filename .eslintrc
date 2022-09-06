@@ -1,0 +1,12 @@
+{
+    "root": true,
+    "rules": {
+        "no-extra-parens": [
+            "warn",
+            "all"
+        ],
+        "brace-style":["error", "1tbs"],
+        "indent": ["error", 4],
+        "quotes": ["error", "double"]
+    }
+}
