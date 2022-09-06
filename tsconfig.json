@@ -8,7 +8,7 @@
         "paths":{
             "@utilize": ["src/utils"],
             "@typings": ["src/typings"],
-            "@building": ["src/buildings"]
+            "@command": ["src/commands"]
         },
         "module": "commonjs"
     },
